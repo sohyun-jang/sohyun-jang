@@ -20,21 +20,23 @@
 <br>
 
 ## Extracurricular Activities
-|Affiliation|Position|Period|Notes|
-|:—:|:—:|:—:|:—:|
-|INCOM|`club executive`|2025.01.19 ~ |'PR Manager'|
+
+| Affiliation | Position        | Period           | Notes       |
+|:-----------:|:---------------:|:----------------:|:-----------:|
+| INCOM       | `Club Executive`| 2025.01.19 ~     | 'PR Manager'|
 
 <br>
 
-|Competition|Team|Role|Period|Notes|
-|:—:|:—:|:—:|:—:|:—:|
-|Growthon|Team Nerd|`Frontend Developer` `Project Planner` |2024.05 ~ 2024.06|최우수상|
-|INCOMthon|Team Nerd|`Frontend Developer`|2024.09 ~ ||
+| Competition | Team      | Role                                | Period             | Notes     |
+|:-----------:|:---------:|:------------------------------------:|:------------------:|:---------:|
+| Growthon    | Team Nerd | `Frontend Developer` `Project Planner` | 2024.05 ~ 2024.06 | 최우수상   |
+| INCOMthon   | Team Nerd | `Frontend Developer`                | 2024.09 ~          |           |
 
 <br>
 
 ## Certificate
-|Certification|Date Acquired|State|
-|:—:|:—:|:—:|
-|HSK4|2025.02.16|Acquired|
-|SQLD|X|In progress|
+
+| Certification | Date Acquired | State        |
+|:-------------:|:-------------:|:------------:|
+| HSK4          | 2025.02.16    | Acquired     |
+| SQLD          | –             | In Progress  |

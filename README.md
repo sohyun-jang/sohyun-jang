@@ -14,12 +14,12 @@
 
 ## Projects & Awards
 
-| Competition | Topic                                | Period             | Notes     |
-|:-----------:|:---------:|:------------------------------------:|:------------------:|:---------:|
-| 2024 Growthon in GDSC & INCOM    | Moblie application for INHA University students | 2024.05 ~ 2024.06 | 최우수상   |
-| 2025 INHA SW Net-Zero Hackathon   | Eco Driving Assistance               | 2025.06.         | -          |
-|INHA AI Challenge | Language-driven Image Colorization | 2025.06 ~ 2025.07 | - |
-|Structure Stability AI | Vision-based physical reasoning for structural stability prediction | 2026.03 | - |
+| Competition | Topic | Period | Notes |
+|:-----------:|:-----:|:------:|:-----:|
+| 2024 Growthon in GDSC & INCOM | Mobile application for INHA University students | 2024.05 – 2024.06 | 최우수상 |
+| 2025 INHA SW Net-Zero Hackathon | Eco Driving Assistance | 2025.06 | - |
+| 2025 INHA AI Challenge | Language-driven Image Colorization | 2025.06 – 2025.07 | - |
+| Structure Stability AI Competition | Vision-based physical reasoning for structural stability prediction | 2026.03 | - |
 <br>
 
 ## Certificate

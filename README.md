@@ -1,37 +1,25 @@
-## Intro
-<strong>Name : Jang Sohyun</strong><br>
-<strong>Major : INHA Artificial Intelligence</strong><sub><i> (2024.03 ~ )</i></sub>
+# Sohyun Jang
+<strong>Student in INHA University, Artificial Intelligence</strong><sub><i> (2024.03 ~ )</i></sub>
 
 <br>
 
-## Languages
-### Main
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-<br>
-
-### Learning
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-<br>
-
-## Database
-
-<br>
-
-## Extracurricular Activities
+## Experience
 
 | Affiliation | Position        | Period           | Notes       |
 |:-----------:|:---------------:|:----------------:|:-----------:|
-| INCOM       | `Club Executive`| 2025.01.19 ~     | 'PR Manager'|
+| INCOM       | Club Executive| 2025.01 ~ 2025.12    | PR Manager|
+| SINSA       | Club Executive| 2026.03 ~ present | Technical Division|
 
 <br>
 
-| Competition | Team      | Role                                | Period             | Notes     |
-|:-----------:|:---------:|:------------------------------------:|:------------------:|:---------:|
-| Growthon    | Team Nerd | `Frontend Developer` `Project Planner` | 2024.05 ~ 2024.06 | 최우수상   |
-| INCOMthon   | Team Nerd | `Frontend Developer`                | 2024.09 ~          |           |
+## Projects & Awards
 
+| Competition | Topic                                | Period             | Notes     |
+|:-----------:|:---------:|:------------------------------------:|:------------------:|:---------:|
+| 2024 Growthon in GDSC & INCOM    | Moblie application for INHA University students | 2024.05 ~ 2024.06 | 최우수상   |
+| 2025 INHA SW Net-Zero Hackathon   | Eco Driving Assistance               | 2025.06.         | -          |
+|INHA AI Challenge | Language-driven Image Colorization | 2025.06 ~ 2025.07 | - |
+|Structure Stability AI | Vision-based physical reasoning for structural stability prediction | 2026.03 | - |
 <br>
 
 ## Certificate

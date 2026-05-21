@@ -1,14 +1,34 @@
 # Sohyun Jang
-<strong>Student in INHA University, Artificial Intelligence</strong><sub><i> (2024.03 ~ )</i></sub>
+<strong> 📚 Student in INHA University, Artificial Intelligence</strong><sub><i> (2024.03 ~ )</i></sub>
 
 <br>
 
 ## Experience
 
-| Affiliation | Position        | Period           | Notes       |
-|:-----------:|:---------------:|:----------------:|:-----------:|
-| INCOM       | Club Executive| 2025.01 ~ 2025.12    | PR Manager|
-| SINSA       | Club Executive| 2026.03 ~ present | Technical Division|
+<details>
+<summary><b> 🖥️ INCOM</b> — Inha University Computer Club &nbsp;&nbsp;<code>2024.03 – 2025.12</code></summary>
+  
+<br>
+Position: Executive Member <sub><i>(PR Director)</i></sub>
+<br>
+
+- Managed club promotion and external communications
+- Organized and operated **INCOMthon** (in-club hackathon)
+
+</details>
+
+<details>
+<summary><b> 🤖 SINSA</b> — Inha University AI Club &nbsp;&nbsp;<code>2026.03 – Present</code></summary>
+
+<br>
+Position: Executive Member <sub><i>(Technical Division</i></sub>
+<br>
+
+- Developed and delivered lecture materials for ML study sessions
+- Managed study operations and organized academic competitions
+  
+</details>
+
 
 <br>
 
@@ -22,7 +42,7 @@
 | Structure Stability AI Competition | Vision-based physical reasoning for structural stability prediction | 2026.03 | - |
 <br>
 
-## Certificate
+## Certificates
 
 | Certification | Date Acquired | State        |
 |:-------------:|:-------------:|:------------:|
